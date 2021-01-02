@@ -10,3 +10,6 @@ Skills to learn:
 - (Build on) visualization skills 
 - (Build on) electronic skills
 - Have fun
+
+## Arducam Library
+In order to feed the arduino visual data, I bought the recommended arducam. The master branch of the interface library has been pushed.
