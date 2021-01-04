@@ -12,4 +12,4 @@ Skills to learn:
 - Have fun
 
 ## Arducam Library
-In order to feed the arduino visual data, I bought the recommended arducam. The master branch of the interface library has been pushed.
+In order to get visual data for the arduino, I bought the recommended arducam. The master branch of the corresponding library for interfacing with the arducam, has been pushed into the master branch of this repository.
